@@ -79,7 +79,7 @@ var q8 = {
     answer2: ["<button>7</button>", 0],
     answer3: ["<button>2</button>", 0],
     answer4: ["<button>7/11</button>", 1],
-    explanation: "Love was invented by card companies.",
+    explanation: "Shoulder sideways smack it smack it in the air.",
     gif: "<img src='https://media.giphy.com/media/tUuaj1Sq8fmww/giphy.gif'/>"
 
 }
@@ -89,7 +89,7 @@ var q9 = {
     answer2: ["<button>You're star, sure</button>", 1],
     answer3: ["<button>I don't have a car</button>", 0],
     answer4: ["<button>Never!!!</button>", 0],
-    explanation: "Appreciate ya",
+    explanation: "Appreciate ya!",
     gif: "<img src='https://media.giphy.com/media/13B40FkhzSC2c/giphy.gif'/>"
 }
 var q10 = {

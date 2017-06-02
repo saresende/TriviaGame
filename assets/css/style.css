@@ -1,10 +1,12 @@
 .quiz-body{ background-color: lightgray;
+			border: 2px solid #676767;
 			height: 500px;
 			width: 100%;
 
 }
 
 body {
+		font-size: 2em;
 		color: black;
     	background-image: url(https://st.depositphotos.com/3470617/4920/v/950/depositphotos_49204805-stock-illustration-science-background.jpg);
     }
@@ -13,4 +15,10 @@ body {
 }
 #title {
 	background-color: lightgray;
+	border: 2px solid #676767;
+}
+
+#id {
+	height: 300px;
+	width: auto;
 }
