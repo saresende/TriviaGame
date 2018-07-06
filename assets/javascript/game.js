@@ -86,14 +86,14 @@ var q8 = {
 var q9 = {
     question: "Can you give me about five minutes? I have a carburetor out back that needs some work.",
     answer1: ["<button>What the heck no</button>", 0],
-    answer2: ["<button>You're star, sure</button>", 1],
+    answer2: ["<button>You're a star, sure</button>", 1],
     answer3: ["<button>I don't have a car</button>", 0],
     answer4: ["<button>Never!!!</button>", 0],
     explanation: "Appreciate ya!",
     gif: "<img src='https://media.giphy.com/media/13B40FkhzSC2c/giphy.gif'/>"
 }
 var q10 = {
-    question: "What did you think of this trvia game sensory experience? ",
+    question: "What did you think of this trivia game sensory experience? ",
     answer1: ["<button>Sensational</button>", 0],
     answer2: ["<button>A+++</button>", 1],
     answer3: ["<button>You're a genius</button>", 0],
